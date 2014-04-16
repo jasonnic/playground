@@ -1,0 +1,3 @@
+[submodule "cloudformation"]
+	path = cloudformation
+	url = https://github.com/jasonnic/cloudformation.git
